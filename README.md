@@ -1,2 +1,1 @@
-## Unet test with the structure from the paper 
-### U-Net: Convolutional Networks for Biomedical Image Segmentation
+## Unet test with the structure from the paper : U-Net: Convolutional Networks for Biomedical Image Segmentation
